@@ -1,1 +1,2 @@
 H:\SWD\C# Personal Project\EtherealLegendsRPG\EtherealLegendsRPG\bin\Debug\EtherealLegendsRPG.exe.config
+C:\Users\SChinchar\Source\Repos\EtherealLegendsRPG\EtherealLegendsRPG\EtherealLegendsRPG\bin\Debug\EtherealLegendsRPG.exe.config
